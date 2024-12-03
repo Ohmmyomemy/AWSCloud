@@ -1,7 +1,7 @@
 # AWSCloud
-There is a project that apply the knowledge about HTML, CSS, JavaScript to build the interactive welcome page that show the prototype of the UX/UI project and deploy to the public cloud like Amazon web service (AWS)
-So, for the first step that you need to do is download the file
---> you need to setup your AWS cloud such 
+There is a project that apply the knowledge about HTML, CSS, JavaScript to build the interactive welcome page that show the prototype of the UX/UI project and deploy to the public cloud like Amazon web service (AWS) <br>
+So, for the first step that you need to do is download the file <br>
+--> you need to setup your AWS cloud such <br>
 Security group --> Setup the HTTP with (IPv4 , 0.0.0.0/0), SSH with (IPv4 , 0.0.0.0/0), and HTTPS with (IPv4 , 0.0.0.0/0)
 KeyPair --> After you create the key pair, it will automatically saved to your folder
 Move to EC2
